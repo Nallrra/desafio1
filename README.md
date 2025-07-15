@@ -1,5 +1,3 @@
-Claro! Aqui está uma sugestão de README bem criativo para o seu projeto, usando emojis e uma linguagem descontraída.
-
 🪙 Conversor de Moedas Global 🚀
 🎯 Sobre o Projeto
 Cansado de fazer contas de cabeça para saber quanto vale o seu dinheiro noutros países? 😵‍💫 O Conversor de Moedas Global chegou para salvar o seu dia!
